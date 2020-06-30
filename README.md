@@ -20,10 +20,26 @@ Creating **Docker** containers and automating infrastructure deployments.
 - Currently breaking the company's monolith into microservices, using **eks (k8s)**, **IaC** and automating the whole deployment process using **jenkins**.
 - Developing monitoring and logging
 
-### Product Development Manager
+### Product Development Manager @ Fluxo Business Automation
 > November, 2017 - April, 2018
 > Curitiba, Brazil
 
-• Participate in customer meetings to understand requirements while suggesting changes to reduce the development cycle and improve final product quality.
-• Partner with the team to further understand the requirements and then decide on the technology to be used to meet them
-• Design the architecture
+* Participate in customer meetings to understand requirements while suggesting changes to reduce the development cycle and improve final product quality.
+* Partner with the team to further understand the requirements and then decide on the technology to be used to meet them
+* Design the architecture
+* Participate in the Front and Back End development itself, leading the team.
+
+### Fullstack Developer @ Fluxo Business Automation
+> June, 2017 - November, 2018
+> Curitiba, Brazil
+
+Main developer of the software Academus.
+Other activities:
+* Setting up AWS EC2 containers.
+* Automating server configuration using Shell Scripting and CRON
+* Configuring and maintaining the MySQL databases, including replication.
+* Setting up APIs to be used by the iOS and Android apps.
+
+Languages: PHP, Javascript & Jquery, HTML, CSS, SQL
+Other skills developed: Create & use RESTful APIs in PHP.
+
