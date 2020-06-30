@@ -34,7 +34,6 @@ Creating **Docker** containers and automating infrastructure deployments.
 > Curitiba, Brazil
 
 Main developer of the software Academus.
-Other activities:
 * Setting up AWS EC2 containers.
 * Automating server configuration using Shell Scripting and CRON
 * Configuring and maintaining the MySQL databases, including replication.
@@ -43,3 +42,44 @@ Other activities:
 Languages: PHP, Javascript & Jquery, HTML, CSS, SQL
 Other skills developed: Create & use RESTful APIs in PHP.
 
+### Planning Management Office Intern @ Pelissari Gestão e Tecnologia
+> October, 2016 - May, 2017
+> Curitiba, Brazil
+
+* Creating, preparing and maintaining the project documents as well as monitoring, documenting and passing any changes to finances.
+* Making sense of operational and financial data, supporting the project managers.
+* Closing up the projects and making sure all the documents and numbers are accounted for.
+* Monthly presentations of the P&L (Profit and Loss) of each project to the board of directors.
+* Maintaining the spreadsheets used to control the consumption of support hours of each client, as well as sending weekly and monthly consumption reports containing cause and effect analysis.
+
+## Skills / Tech Stack
+
+## TECH STACK
+key             | value
+--------------- | -----
+HCL + Terraform | `mid`
+AWS             | `high`
+Docker          | `high`
+Kubernetes      | `mid`
+PHP             | `high`
+Python          | `low`
+Bash            | `mid`
+Ansible         | `mid`
+Linux           | `high`
+Windows         | `low`
+
+## SOFT SKILLS
+### more or less developed
+key                     | value
+----------------------- | -----
+personal effectiveness  | `high`
+interaction             | `low`
+flexibility             | `high`
+socialization           | `high`
+communication           | `mid`
+honesty                 | `high`
+positive attitude       | `high`
+negotiation             | `high`
+
+## COURSES AND CERTIFICATES
+- [Cloud DevOps Engineer](https://graduation.udacity.com/confirm/TPKMLYPS) - Udacity (`#TPKMLYPS`)
