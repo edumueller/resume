@@ -83,3 +83,4 @@ negotiation             | `high`
 
 ## COURSES AND CERTIFICATES
 - [Cloud DevOps Engineer](https://graduation.udacity.com/confirm/TPKMLYPS) - Udacity (`#TPKMLYPS`)
+- [React: Fullstack Web Development](https://www.udemy.com/certificate/UC-DR0ZGCB9) - Udemy (`#UC-DR0ZGCB9`)
