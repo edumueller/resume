@@ -9,7 +9,7 @@
 * github: https://github.com/edumueller
 * LinkedIn: https://www.linkedin.com/in/eduardonicastro/
 
-** Work experience
+## Work experience
 
 ### Fullstack engineer @ Logcomex
 > May, 2018 - present
