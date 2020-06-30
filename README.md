@@ -93,6 +93,5 @@ negotiation             | `high`
 
 ## EDUCATION
 ### 2012 – 2020 Pontifical Catholic University of Paraná
-#### Industrial Engineering
+#### Industrial Engineering - Bachelor's Degree
 https://en.wikipedia.org/wiki/Pontifical_Catholic_University_of_Paran%C3%A1
-**Bachelor's Degree**
