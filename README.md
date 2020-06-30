@@ -1,5 +1,5 @@
 # Resume of Eduardo Mauricio Mueller Nicastro
-## DevOps - Fullstack - Industrial Engineer
+## Fullstack DevOps Engineer
 
 **As an Indutrial Engineer with professional experience as a Fullstack Engineer, I've started pursuing a career in DevOps. It was a natural next step for me and has been transforming the way I work. What I'm looking for are opportunities to help other developers and companies to build their microservices architecture and cloud infrastructure.** 
 
@@ -53,35 +53,46 @@ Other skills developed: Create & use RESTful APIs in PHP.
 * Maintaining the spreadsheets used to control the consumption of support hours of each client, as well as sending weekly and monthly consumption reports containing cause and effect analysis.
 
 ## Skills / Tech Stack
+### Graded from 1 to 5
 
-## TECH STACK
-key             | value
---------------- | -----
-HCL + Terraform | `mid`
-AWS             | `high`
-Docker          | `high`
-Kubernetes      | `mid`
-PHP             | `high`
-Python          | `low`
-Bash            | `mid`
-Ansible         | `mid`
-Linux           | `high`
-Windows         | `low`
+## TECH STACK: CI/CD & DevOps
+key                          | value
+---------------------------- | -----
+Docker + Docker compose      | `5`
+Jenkins / CircleCI           | `5`
+IaC                          | `4`
+Kubernetes                   | `4`
+AWS                          | `5`
+Microservices Architecture   | `5`
+Terraform                    | `3`
+Ansible                      | `3`
+Python                       | `3`
+Bash                         | `3`
+PHP                          | `5`
+Laravel / Lumen              | `5`
+Node.js                      | `4`
+Vue.js                       | `4`
+React.js                     | `3`
 
 ## SOFT SKILLS
-### more or less developed
+### high, mid or low developed
 key                     | value
 ----------------------- | -----
-personal effectiveness  | `high`
+persistence             | `high`
+problem solving         | `high`
 interaction             | `low`
 flexibility             | `high`
-socialization           | `high`
+socialization           | `mid`
 communication           | `mid`
-honesty                 | `high`
-positive attitude       | `high`
 negotiation             | `high`
 
 ## COURSES AND CERTIFICATES
 - [Cloud DevOps Engineer](https://graduation.udacity.com/confirm/TPKMLYPS) - Udacity (`#TPKMLYPS`)
 - [React: Fullstack Web Development](https://www.udemy.com/certificate/UC-DR0ZGCB9) - Udemy (`#UC-DR0ZGCB9`)
 - [Six Sigma Green Belt](http://www.iienet2.org/IIETrainingCenter/CourseDetail.aspx?EventCode=6GB) - Institute of Industrial Engineers (`#2206-4056`)
+
+## EDUCATION
+### 2012 – 2020 Pontifical Catholic University of Paraná
+#### Industrial Engineering
+https://en.wikipedia.org/wiki/Pontifical_Catholic_University_of_Paran%C3%A1
+**Bachelor's Degree**
