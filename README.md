@@ -52,6 +52,23 @@ Other skills developed: Create & use RESTful APIs in PHP.
 * Monthly presentations of the P&L (Profit and Loss) of each project to the board of directors.
 * Maintaining the spreadsheets used to control the consumption of support hours of each client, as well as sending weekly and monthly consumption reports containing cause and effect analysis.
 
+
+## Projects
+
+### Capstone Project
+> Cloud DevOps Engineer Certification @ Udacity  
+> https://github.com/udacity-devops/Udacity-DevOps_Kubernetes-Jenkins_Capstone
+
+In this project, we created a CI/CD pipeline to create a Blue/Green deployment to a kubernetes cluster in AWS, using EKS and Jenkins.
+
+The project was reviewed and approved by Udacity's staff.
+
+### Infrastructure as Code - CloudFormation
+> Deploy a High Availability App to AWS using CloudFormation  
+> https://github.com/udacity-devops/InfrastructureAsCode_CloudFormation
+
+Infrastructure as Code: The goal was to create a couple scripts to easily Deploy a Stack or High Availability App to AWS using CloudFormation.
+
 ## Skills / Tech Stack
 ### Graded from 1 to 5
 
