@@ -1,9 +1,9 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: Udacity Capstone Project - Cloud DevOps Engineer Certification
+  link: https://github.com/udacity-devops/Udacity-DevOps_Kubernetes-Jenkins_Capstone
+  github: udacity-devops/Udacity-DevOps_Kubernetes-Jenkins_Capstone
   quote: >
-    Short overview of the project (optional)
+    Udacity Cloud DevOps Engineer Capstone Project
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    In this project, we created a CI/CD pipeline to create a Blue/Green deployment to a kubernetes cluster in AWS, using EKS and Jenkins.

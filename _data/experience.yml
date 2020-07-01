@@ -1,10 +1,57 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
+  company: Logcomex
+  link: https://www.logcomex.com/
+  job_title: Fullstack engineer
+  dates: May 2018 - present - present
   quote: >
-   Short description of the company (optional)
+   Tech company that automates and provides tools to analyze foreign trade data
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - Work closely with the Product Owner and guide the technical decisions within the team
+    - Create **Docker** containers and automating infrastructure deployments
+    - Currently breaking the company's monolith into microservices, using **eks (k8s)**, **IaC** and automating the whole deployment process using **jenkins**
+    - Develop monitoring and logging
+
+- layout: left
+  company: Fluxo Business Automation
+  link: https://www.fluxo.pro/
+  job_title: Product Development Manager
+  dates: November 2017 - April 2018
+  quote: >
+    Software Factory
+  description: |
+    - Participate in customer meetings to understand requirements while suggesting changes to reduce the development cycle and improve final product quality.
+    - Partner with the team to further understand the requirements and then decide on the technology to be used to meet them
+    - Design the architecture
+    - Participate in the Front and Back End development itself, leading the team.
+
+- layout: left
+  company: Fluxo Business Automation
+  link: https://www.fluxo.pro/
+  job_title: Fullstack Developer
+  dates: June 2017 - November 2017
+  quote: >
+    Software Factory
+  description: |
+    Main developer of the software Academus.
+
+    * Setting up AWS EC2 containers.
+    * Automating server configuration using Shell Scripting and CRON
+    * Configuring and maintaining the MySQL databases, including replication.
+    * Setting up APIs to be used by the iOS and Android apps.
+
+- layout: left
+  company: Pelissari Gestão e Tecnologia
+  link: http://www.pelissari.com.br/
+  job_title: Planning Management Office Intern
+  dates: October 2016 - May 2017
+  quote: >
+    SAP Consulting
+  description: |
+    Main developer of the software Academus.
+
+    * Creating, preparing and maintaining the project documents as well as monitoring, documenting and passing any changes to finances.
+    * Making sense of operational and financial data, supporting the project managers.
+    * Closing up the projects and making sure all the documents and numbers are accounted for.
+    * Monthly presentations of the P&L (Profit and Loss) of each project to the board of directors.
+    * Maintaining the spreadsheets used to control the consumption of support hours of each client, as well as sending weekly and monthly consumption reports containing cause and effect analysis.

@@ -1,9 +1,9 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Pontifical Catholic University of Paraná
+  dates: 2012 – 2020
+  qualification: Industrial Engineer - Bachelor's Degree
   quote: >
-    Short institution or course description (optional)
+    Engineers make things, Industrial Engineers make things better!
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Industrial engineering is actually a far-ranging profession that focuses on optimizing complex processes or systems by reducing wastefulness in production. It focuses on systems of people, money, knowledge, information, equipment, energy, and materials and may address mathematical, physical and social science concerns.

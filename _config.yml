@@ -1,37 +1,28 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: https://github.com/edumueller/resume
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+name: Eduardo Mauricio Mueller Nicastro
+title: Fullstack DevOps Engineer
+email: edu.nicastro@gmail.com
+phone: +55 41 998847515
+website: http://edumueller.github.io/resume
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-stackoverflow_username: "00000001"
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
-orcid_username: 0000-0000-0000-0000
+github_username:  edumueller
+stackoverflow_username: "17223963"
+instagram_username: edu.mueller
+linkedin_username: eduardonicastro
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+#additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -44,16 +35,13 @@ additional_links:
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  As an Indutrial Engineer with professional experience as a <mark>Fullstack Engineer</mark>, I've started pursuing a career as a <mark>Cloud DevOps Engineer</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+  It was a natural next step for me and has been transforming the way I work.
 
+  What I'm looking for are opportunities to learn by helping other developers and companies to build their <mark>microservices architecture</mark> and <mark>cloud infrastructure</mark> with the most advanced technology available.
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 
@@ -64,11 +52,22 @@ about_content: | # this will include new lines to allow paragraphs
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+more_title: Certificates
+more_content: |
+  - [Cloud DevOps Engineer](https://graduation.udacity.com/confirm/TPKMLYPS) - Udacity (`#TPKMLYPS`)
+  - [React: Fullstack Web Development](https://www.udemy.com/certificate/UC-DR0ZGCB9) - Udemy (`#UC-DR0ZGCB9`)
+  - [Six Sigma Green Belt](http://www.iienet2.org/IIETrainingCenter/CourseDetail.aspx?EventCode=6GB) - Institute of Industrial Engineers (`#2206-4056`)
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  <div class="container education-container">
+    <h3 style="border-bottom: none;">More</h3>
+    <div class="col-xs-12 col-print-12">
+      <p class="quote">
+        I'm very interested in researching ways to apply my DevOps knowledge in manufacturing industries. With Industry 4.0, Developers and Industrial Engineers will need to work together.
+
+        I also love CrossFit, Boxing and playing PC games.
+      </p>
+    </div>
+  </div>
 
 # Footer
 footer_show_references: true
