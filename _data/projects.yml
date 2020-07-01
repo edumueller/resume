@@ -7,3 +7,14 @@
     Udacity Cloud DevOps Engineer Capstone Project
   description: | # this will include new lines to allow paragraphs
     In this project, we created a CI/CD pipeline to create a Blue/Green deployment to a kubernetes cluster in AWS, using EKS and Jenkins. The project was reviewed and approved by Udacity's staff.
+
+- layout: top-middle
+  name: Infrastructure as Code: CloudFormation
+  link: https://raw.githubusercontent.com/udacity-devops/InfrastructureAsCode_CloudFormation/master/AWS%20Infrastructure%20Diagram.jpeg
+  github: udacity-devops/InfrastructureAsCode_CloudFormation
+  quote: >
+    Deploy a High Availability App to AWS using CloudFormation
+  description: | # this will include new lines to allow paragraphs
+    Udacity Cloud DevOps Engineer: Infrastructure as Code Project.
+
+    The goal was to create a couple scripts to easily Deploy a Stack or High Availability App to AWS using CloudFormation.
