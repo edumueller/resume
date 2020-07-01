@@ -9,7 +9,7 @@
     In this project, we created a CI/CD pipeline to create a Blue/Green deployment to a kubernetes cluster in AWS, using EKS and Jenkins. The project was reviewed and approved by Udacity's staff.
 
 - layout: top-middle
-  name: Infrastructure as Code: CloudFormation
+  name: Infrastructure as Code - CloudFormation
   link: https://raw.githubusercontent.com/udacity-devops/InfrastructureAsCode_CloudFormation/master/AWS%20Infrastructure%20Diagram.jpeg
   github: udacity-devops/InfrastructureAsCode_CloudFormation
   quote: >
