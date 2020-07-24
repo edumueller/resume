@@ -105,6 +105,7 @@ negotiation             | `high`
 
 ## COURSES AND CERTIFICATES
 - [Cloud DevOps Engineer](https://graduation.udacity.com/confirm/TPKMLYPS) - Udacity (`#TPKMLYPS`)
+- [SOLID Principles of Object-Oriented Design and Architecture](https://www.udemy.com/certificate/UC-37025101-73b4-4ef3-8641-a07f0ef311e2) - Udemy (`#UC-37025101-73b4-4ef3-8641-a07f0ef311e2`)
 - [React: Fullstack Web Development](https://www.udemy.com/certificate/UC-DR0ZGCB9) - Udemy (`#UC-DR0ZGCB9`)
 - [Six Sigma Green Belt](http://www.iienet2.org/IIETrainingCenter/CourseDetail.aspx?EventCode=6GB) - Institute of Industrial Engineers (`#2206-4056`)
 
