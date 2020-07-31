@@ -2,12 +2,23 @@
 - layout: left
   company: Logcomex
   link: https://www.logcomex.com/
-  job_title: Fullstack engineer
-  dates: May 2018 - present - present
+  job_title: Tech Lead
+  dates: May 2020 - present
   quote: >
    Tech company that automates and provides tools to analyze foreign trade data
   description: | # this will include new lines to allow paragraphs
-    - Work closely with the Product Owner and guide the technical decisions within the team
+    - Work closely with the Product Owner. coordinating team members and moderating discussions
+    - Make high level technical decisions, lead the team, review the code and help other developers
+    - Configure and control the whole CI/CD pipeline with Test, Build and Deploy using CircleCI and Kubernetes to orchestrate the AWS Infrasctructure
+
+- layout: left
+  company: Logcomex
+  link: https://www.logcomex.com/
+  job_title: Fullstack engineer
+  dates: May 2018 - May 2020
+  quote: >
+   Tech company that automates and provides tools to analyze foreign trade data
+  description: | # this will include new lines to allow paragraphs
     - Create **Docker** containers and automating infrastructure deployments
     - Currently breaking the company's monolith into microservices, using **eks (k8s)**, **IaC** and automating the whole deployment process using **jenkins**
     - Develop monitoring and logging
