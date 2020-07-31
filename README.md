@@ -11,8 +11,17 @@
 
 ## Work experience
 
-### Fullstack engineer & Product Tech Leader @ Logcomex
-> May, 2018 - present
+### Tech Leader @ Logcomex
+> May, 2020 - present
+> Curitiba, Brazil
+
+- Work closely with the Product Owner. **coordinating** team members and moderating discussions
+- Make high level **technical decisions**, **lead** the team, **review** the code and help other developers
+- Configure and control the whole **CI/CD** pipeline with Test, Build and Deploy using **CircleCI** and **Kubernetes** to orchestrate the **AWS** Infrasctructure
+
+
+### Fullstack engineer @ Logcomex
+> May, 2018 - May, 2020
 > Curitiba, Brazil
 
 - Work closely with the Product Owner and guide the technical decisions within the team
