@@ -3,11 +3,12 @@
 
 **As an Indutrial Engineer with professional experience as a Fullstack Engineer, I've started pursuing a career in DevOps. It was a natural next step for me and has been transforming the way I work. What I'm looking for are opportunities to help other developers and companies to build their microservices architecture and cloud infrastructure.**
 
-* location: Curitiba, Brazil (GMT -3)
-* e-mail: edu.nicastro@gmail.com
-* mobile: +55 41 998847515
-* github: https://github.com/edumueller
+* Location: Curitiba, Brazil (GMT -3)
+* E-mail: edu.nicastro@gmail.com
+* Mobile: +55 41 998847515
+* Github: https://github.com/edumueller
 * LinkedIn: https://www.linkedin.com/in/eduardonicastro/
+* Website: https://edumueller.github.io/resume/
 
 ## Work experience
 
